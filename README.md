@@ -1,2 +1,2 @@
 # Platformer
-It's a Platformer Engine I made, sure there are some flaws to it but nothing someone can fix, since this is just a engine I didn't wanna make it a game, game.
+By the way, there is a section called 'background.png' you will need to rename the file to use it, especially in Replit
